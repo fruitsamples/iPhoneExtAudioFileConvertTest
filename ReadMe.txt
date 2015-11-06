@@ -30,13 +30,12 @@ function in MyViewController.m
 ===========================================================================
 BUILD REQUIREMENTS:
 
-Mac OS X v10.5.8, Xcode 3.1.4, iPhone OS 3.1
+iOS 4.0 SDK
 
 ===========================================================================
 RUNTIME REQUIREMENTS:
 
-Simulator: Mac OS X v10.5.8
-iPhone: iPhone OS 3.1
+iOS 4.0 or later
 
 ===========================================================================
 PACKAGING LIST:
@@ -67,6 +66,7 @@ supported file type or encoding format and present these choices however they wi
 CHANGES FROM PREVIOUS VERSIONS:
 
 Version 1.0, tested with iPhone OS 3.1. First public release.
+Version 1.1, tested with iPhone OS 4.0. Upgraded project to build with the iOS 4.0 SDK.
 
 ================================================================================
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2009-2010 Apple Inc. All rights reserved.
